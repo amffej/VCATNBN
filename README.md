@@ -11,4 +11,4 @@ Key features of the code:
   - Move Based on Encoders (Multitasking)
   - Follow Line
   - Move Based on time
-** REVEAL VIDEO OF ROBOTS LOCATED HERE: https://www.youtube.com/watch?v=3LrrPbsb1bM
+- REVEAL VIDEO OF ROBOTS LOCATED HERE: https://www.youtube.com/watch?v=3LrrPbsb1bM
